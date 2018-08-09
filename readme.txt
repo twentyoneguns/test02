@@ -1,3 +1,3 @@
-git is a distributed version contral system.
+git is a good distributed version contral system.
 git is free.
 
